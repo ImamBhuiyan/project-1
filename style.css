@@ -1,0 +1,223 @@
+body{
+    margin: 0;
+    font-family: 'Yeseva One', cursive;
+}
+.top-banner{
+    margin-top: 100px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.half-width{
+    width:26%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.goal{
+    width:26%;
+    float: left;
+    margin-right: 5%;
+    padding-left: 2%;
+}
+h1{
+    font-size: 50px;
+}
+h1 span{
+    color: #f4500a;
+}
+.half-width img{
+    width: 50%;
+}
+#stpic{
+    width: 100%;
+    margin-left:150px ;
+}
+#to{
+    margin-left: 10%;
+}
+.anchor-button{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+p{
+    color: dimgray;
+}
+
+h2{
+    font-size: 40px;
+}
+.experience-area{
+    display: flex;
+   
+}
+.experience-area h3{
+    color: orange;
+}
+
+.experience-area div{
+    
+}
+#full-stack{
+   border-radius: 40px;
+   background-color: rgba(237,245,247,255);
+}
+#baby-web{
+  
+ background-color: rgba(255,238,238,255);
+ border-radius: 40px;   
+   
+}
+footer p{
+    text-align: center;
+}
+#ex{
+    text-align: center;
+}
+#gl{
+    margin-left: 2%;
+    background-color: rgba(255,244,214,255);
+    border-radius: 40px;
+}
+.goal img{
+    width: 50%;
+}
+.coding-part{
+    display: flex;
+   
+   
+}
+.limit{
+    width:50%;
+    float: left;
+    margin-right: 5%;
+    padding-right: 2%;
+    
+    
+}
+.girl{
+    width:50%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+    
+    
+}
+.girl img{
+    width: 80%;
+    padding-left: 134px;
+}
+#button2{
+    text-decoration: none;
+    padding: 10px 20px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    border-radius: 10px;
+}
+#bag{
+    background-image: url(images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+}
+.global{
+    display: flex;
+    margin-top: 5%;
+}
+.teaching{
+    width:50%;
+    float: right;
+    margin-right: 5%;
+    padding-right: 2%;
+}
+.teaching img{
+    width: 70%;
+}
+.know{
+    
+    width:50%;
+    
+    margin-left: 13%;
+    padding-left: 2%;
+}
+#button3{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+.skill{
+
+    display: flex;
+}
+
+.cricle{
+    width: 50%;
+}
+
+
+.cricle img{
+    width: 92%;
+    height: 480px;
+}
+.sk{
+    width: 50%;
+    padding-left: 137px;
+    text-align: center;
+}
+#ht{
+    color: white;
+    background-color: rgb(39, 231, 21);
+    width: 50%;
+    padding: 10px 20px;
+    
+    
+}
+#cs{
+    color: black;
+    background-color: yellow;
+    width: 50%;
+    padding: 10px 20px;
+}
+#js{
+    color: white;
+    background-color: tomato;
+    width: 50%;
+    padding: 10px 20px;
+}
+footer{
+    background-color: black;
+    height: 200px;
+}
+.mis{
+    color: white;
+}
+.lpart{
+    color: white;
+    background-color: black;
+}
+h3 span{
+    color:#f4500a ;
+}
+h3{
+    color: aliceblue;
+    text-align: center;
+    font-size: 23px;
+    padding-top: 65px;
+}
+footer p{
+    color: white;
+}
+#my{
+    color: tomato;
+    padding-left: 65%;
+}
