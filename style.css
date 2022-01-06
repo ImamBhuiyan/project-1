@@ -26,6 +26,12 @@ section{
 h1{
     font-size: 50px;
 }
+.line{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    padding-left: 5px;
+}
 h1 span{
     color: #f4500a;
 }
@@ -38,6 +44,7 @@ h1 span{
 }
 #to{
     margin-left: 10%;
+    
 }
 .anchor-button{
     text-decoration: none;
